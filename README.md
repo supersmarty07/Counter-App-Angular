@@ -10,9 +10,6 @@ This app is simple angular application with 2 Components. Display component and 
 6) Import the service into the components and inject into the constructor
 7) In the component, subscribe to the broadcast inside ngOnInit.
 
-Tutorial from https://youtu.be/49QM3KkOKXs
-
-
 # CounterApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
@@ -40,3 +37,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+https://youtu.be/49QM3KkOKXs
