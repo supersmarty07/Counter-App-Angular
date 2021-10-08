@@ -1,6 +1,17 @@
 # Angular Fundamentals
 This app is simple angular application with 2 Components. Display component and Button components are the 2 components. With this application, I implemented/learnt angular concepts like dependency injection, service, ngrx component interaction, state management with BehaviorSubject and so on. Btw React is wayyyyyy easier than Angular.
 
+# App Development Summary
+1) This app has 2 components i.e. Display Component & Button Component.
+2) Create a Service and import BehaviorSubject inside that service.
+3) Make variable that will be shared across components (default value of this variable can be intiatilized here)
+4) Broadcast this data as observable
+5) Make a function that updates the value of the data that is to be shared
+6) Import the service into the components and inject into the constructor
+7) In the component, subscribe to the broadcast inside ngOnInit.
+
+Tutorial from https://youtu.be/49QM3KkOKXs
+
 
 # CounterApp
 
